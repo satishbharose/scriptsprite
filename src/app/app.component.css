@@ -1,0 +1,9 @@
+.navbar{
+    background-color: coral;
+}
+
+.navbar-light .navbar-nav .nav-item:hover{
+    color: pink;
+    font-size: 18px;
+    /* text-decoration: underline; */
+}
